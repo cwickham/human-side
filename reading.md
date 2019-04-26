@@ -63,6 +63,27 @@ Decision making frameworks
 Resources for lessons relevant to statistics and/or data science
 ----------------------------------------------------------------
 
+-   Baumer, Kaplan, and Horton ([2017](#ref-baumer2017modern), chap. 6, pp. 131--146) *Professional Ethics* provides some short cases relevant to Data Science designed to raise ethical questions. The cases are relevant and current. While they do give some useful ethical "precepts" (draw on professional standards, be open and honest, responsibilities to stakeholders), they do not outline any framework for evaluating ethical decisions and/or handling conflicting ethical recommendations.
+
+    Relevant, interesting case ideas in the exercises section of this chapter.
+
+    I need to check out the "further resources" mentioned at the end of the chapter.
+
+-   Lesser and Nordenhaug ([2004](#ref-lesser2004ethical)) outlines a module of statistical ethics. I really like that is is first framed with a discussion of Kantian and Utilitarian ethics, before using these frameworks to analyse decisions in statistics. For example, nice example in clinical trials:
+
+    -   "prioritizing the greater good over the welfare of a trial's individual subjects is clearly a utilitarian idea".
+
+    -   "(in the spirit of rule-utilitarianism if not Kantianism) that there are certain experiments that should never be run on an individual, no matter how big the benefit for how many other people"
+
+Ethical Behaviour
+-----------------
+
+It's not enough to know what is right, you need to **do** what is right.
+
+-   Prentice ([2014](#ref-prentice2018)) presents an outline of six classes on behavioural ethics, or why good people do bad things. Good collection of examples of studies that have demonstrated various psychological factors that affect decision making, see Class 4 for e.g. "conformity bias", "obedience to authority".
+
+    Class \#6 "How you can be your best self" gives specific ideas for how to help people act on their values, in particular recommending the "Giving Voice to Values" curriculum.
+
 Ideas for lessons or activities
 -------------------------------
 
@@ -75,7 +96,11 @@ Bibliography
 
 American Statistical Association. 2018. “Ethical Guidelines for Statistical Practice.” <https://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx>.
 
+Baumer, Benjamin S, Daniel T Kaplan, and Nicholas J Horton. 2017. *Modern Data Science with R*. CRC Press.
+
 Lesser, Lawrence M, and Erik Nordenhaug. 2004. “Ethical Statistics and Statistical Ethics: Making an Interdisciplinary Module.” *Journal of Statistics Education* 12 (3). Taylor & Francis.
+
+Prentice, Robert. 2014. “Teaching Behavioral Ethics.” *Journal of Legal Studies Education* 31 (2): 325–65. doi:[10.1111/jlse.12018](https://doi.org/10.1111/jlse.12018).
 
 Tractenberg, Rochelle E, and Kevin T FitzGerald. 2012. “A Mastery Rubric for the Design and Evaluation of an Institutional Curriculum in the Responsible Conduct of Research.” *Assessment & Evaluation in Higher Education* 37 (8). Taylor & Francis: 1003–21.
 
