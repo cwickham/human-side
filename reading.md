@@ -37,14 +37,43 @@ The KSA's certainly help provide a framework for thinking about what students ne
 Decision making frameworks
 --------------------------
 
+-   Trevino and Nelson ([2016](#ref-trevino2016managing), chap. 2) *Deciding What's Right: A Prescriptive Approach* "offers decision making tools" for ethical decisions. They start with an overview of three philosophical frameworks (consequentialist theories, deontological theories, and virtue ethics) before presenting an eight step procedure to integrate them into making an ethical decision.
+
+    One of the more accessible summaries of the philosophical frameworks I've read. The "eight step procedure" might be a useful roadmap for students to follow as an activity with a relevant case study.
+
+    Includes an good exercise to help students elicit their own personal values.
+
+    The eight steps include:
+
+    -   Gather the facts
+    -   Define the ethical issues
+    -   Identify affected parties
+    -   Identify the consequences
+    -   Identify obligations
+    -   Consider your character and integrity
+    -   Think creatively about potential actions
+    -   Check your gut
+
+-   The Appendix in Lesser and Nordenhaug ([2004](#ref-lesser2004ethical)) provides some background on Kantian, Utilitarian and Virtue Ethics.
+
+-   The [Markkula Center for Applied Ethics](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/) provides some resources for ethical decision making. In particular, their [framework for ethical decision making](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/a-framework-for-ethical-decision-making/) outlines five sources of ethical standards (utilitarian, rights, justice, common good and virtue) and an process to integrate them into a decision making process.
+
+    I particularly like the questions they use to provoke thinking from each of the five standards, e.g. "Which option will produce the most good and do the least harm? (The Utilitarian Approach)"
+
 Resources for lessons relevant to statistics and/or data science
 ----------------------------------------------------------------
 
-Ideas for lessons
------------------
+Ideas for lessons or activities
+-------------------------------
+
+-   Trevino and Nelson ([2016](#ref-trevino2016managing), chap. 2, pp. 50--51) present a *hippocratic oath for managers* and ask whether you can you identify the consequentialist thinking, deontological thinking and virtue ethics thinking. Perhaps after presenting these theories this exercise could be conducted with some parts of the ASA guidelines (American Statistical Association [2018](#ref-asa-guidelines)).
+
+-   Using a case study built around one of the ASA guidelines, provide some alternative actions and ask the questions from the "Evaluate Alternative Actions" step in the [Markkula Center's for Applied Ethics framework for ethical decision making](https://www.scu.edu/ethics/ethics-resources/ethical-decision-making/a-framework-for-ethical-decision-making/). Can student's choose (and justify) an action?
 
 Bibliography
 ============
+
+American Statistical Association. 2018. “Ethical Guidelines for Statistical Practice.” <https://www.amstat.org/ASA/Your-Career/Ethical-Guidelines-for-Statistical-Practice.aspx>.
 
 Lesser, Lawrence M, and Erik Nordenhaug. 2004. “Ethical Statistics and Statistical Ethics: Making an Interdisciplinary Module.” *Journal of Statistics Education* 12 (3). Taylor & Francis.
 
@@ -53,3 +82,5 @@ Tractenberg, Rochelle E, and Kevin T FitzGerald. 2012. “A Mastery Rubric for t
 Tractenberg, Rochelle E. 2013. “Ethical Reasoning for Quantitative Scientists: A Mastery Rubric for Developmental Trajectories, Professional Identity, and Portfolios That Document Both.” In *Proceedings of the 2013 Joint Statistical Meetings, Montreal, Quebec, Canada*.
 
 Tractenberg, Rochelle E., Andrew J. Russell, Gregory J. Morgan, Kevin T. FitzGerald, Jeff Collmann, Lee Vinsel, Michael Steinmann, and Lisa M. Dolling. 2015. “Using Ethical Reasoning to Amplify the Reach and Resonance of Professional Codes of Conduct in Training Big Data Scientists.” *Science and Engineering Ethics* 21 (6): 1485–1507. doi:[10.1007/s11948-014-9613-1](https://doi.org/10.1007/s11948-014-9613-1).
+
+Trevino, Linda K, and Katherine A Nelson. 2016. *Managing Business Ethics: Straight Talk About How to Do It Right*. John Wiley & Sons.
